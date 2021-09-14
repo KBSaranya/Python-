@@ -2,6 +2,10 @@ Welcome to git hub
 
 This is my first git hub acccount
 
+i am creating a branch and merge now .
 
+Vegtables list:
+carrot
+beans.
 
 Thank You :)
